@@ -21,7 +21,7 @@ int main() {
 	int n;
 	char ans;
 	do{
-	cout << "Enter number to find factorial::" << endl;
+	cout << "Enter number to find factorial:" << endl;
 	cin>>n;
 	cout<<"Factorial is:"<<factorial(n)<<endl;
 	cout<<"Do you want to continue? Enter y to continue";
